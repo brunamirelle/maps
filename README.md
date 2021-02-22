@@ -1,4 +1,4 @@
 # maps
-Maps IBGE's shp  in R
+IBGE maps in R
 
-by municipaliy and state
+by municipality and state
